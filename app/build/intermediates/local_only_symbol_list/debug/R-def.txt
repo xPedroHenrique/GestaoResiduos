@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color primary
+color secondary
+color text
+color white
+id btnCadastrar
+id btnCalendario
+id btnEducativo
+id btnEntrar
+id btnMapa
+id etEmail
+id etSenha
+id map
+id rvColetas
+id tvDescricao
+id tvTitulo
+id tvTituloMapa
+layout activity_calendario
+layout activity_educativo
+layout activity_home
+layout activity_login
+layout activity_mapa
+layout activity_splash
+layout item_coleta
+string app_name
+string calendar
+string education
+string email
+string login
+string map
+string password
+string register
+string titulo_mapa
+string welcome
+style Theme.GRT

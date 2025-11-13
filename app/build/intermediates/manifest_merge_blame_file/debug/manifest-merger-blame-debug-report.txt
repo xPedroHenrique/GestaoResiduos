@@ -1,0 +1,198 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pedro.gestaoresiduos"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:6:5-81
+13-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:6:22-78
+14    <!-- Include required permissions for Google Maps API to run. -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\93896c38c5180f0e3eb915a7d456630d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+15-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\93896c38c5180f0e3eb915a7d456630d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:23:22-76
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\93896c38c5180f0e3eb915a7d456630d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\93896c38c5180f0e3eb915a7d456630d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\93896c38c5180f0e3eb915a7d456630d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+20
+21    <queries>
+21-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\93896c38c5180f0e3eb915a7d456630d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+22
+23        <!-- Needs to be explicitly declared on Android R+ -->
+24        <package android:name="com.google.android.apps.maps" />
+24-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\93896c38c5180f0e3eb915a7d456630d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+24-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\93896c38c5180f0e3eb915a7d456630d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+25    </queries>
+26
+27    <permission
+27-->[androidx.core:core:1.12.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\3fa236219c4c0bc89c722749418b98f7\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+28        android:name="com.pedro.gestaoresiduos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+28-->[androidx.core:core:1.12.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\3fa236219c4c0bc89c722749418b98f7\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+29        android:protectionLevel="signature" />
+29-->[androidx.core:core:1.12.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\3fa236219c4c0bc89c722749418b98f7\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+30
+31    <uses-permission android:name="com.pedro.gestaoresiduos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+31-->[androidx.core:core:1.12.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\3fa236219c4c0bc89c722749418b98f7\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+31-->[androidx.core:core:1.12.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\3fa236219c4c0bc89c722749418b98f7\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+32
+33    <application
+33-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:8:5-31:19
+34        android:allowBackup="true"
+34-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:9:9-35
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.12.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\3fa236219c4c0bc89c722749418b98f7\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+36        android:debuggable="true"
+37        android:extractNativeLibs="false"
+38        android:icon="@android:drawable/sym_def_app_icon"
+38-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:11:9-58
+39        android:label="Gestão de Resíduos"
+39-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:10:9-43
+40        android:testOnly="true"
+41        android:theme="@style/Theme.GRT" >
+41-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:12:9-41
+42        <meta-data
+42-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:13:9-15:71
+43            android:name="com.google.android.geo.API_KEY"
+43-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:14:13-58
+44            android:value="AIzaSyCA1KLu-ui3pG3tbv56HYd-ICzoFzaCZ7A" />
+44-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:15:13-68
+45
+46        <activity android:name="com.pedro.gestaoresiduos.ui.mapa.MapaActivity" />
+46-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:17:9-58
+46-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:17:19-55
+47        <activity android:name="com.pedro.gestaoresiduos.ui.educativo.EducativoActivity" />
+47-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:18:9-68
+47-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:18:19-65
+48        <activity android:name="com.pedro.gestaoresiduos.ui.calendario.CalendarioActivity" />
+48-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:19:9-70
+48-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:19:19-67
+49        <activity android:name="com.pedro.gestaoresiduos.ui.home.HomeActivity" />
+49-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:20:9-58
+49-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:20:19-55
+50        <activity android:name="com.pedro.gestaoresiduos.ui.login.LoginActivity" />
+50-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:21:9-60
+50-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:21:19-57
+51        <activity
+51-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:22:9-29:20
+52            android:name="com.pedro.gestaoresiduos.ui.login.SplashActivity"
+52-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:23:13-52
+53            android:exported="true" >
+53-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:24:13-36
+54            <intent-filter>
+54-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:25:13-28:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:26:17-69
+55-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:26:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:27:17-77
+57-->C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\src\main\AndroidManifest.xml:27:27-74
+58            </intent-filter>
+59        </activity>
+60
+61        <!-- Needs to be explicitly declared on P+ -->
+62        <uses-library
+62-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\93896c38c5180f0e3eb915a7d456630d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+63            android:name="org.apache.http.legacy"
+63-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\93896c38c5180f0e3eb915a7d456630d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+64            android:required="false" />
+64-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\93896c38c5180f0e3eb915a7d456630d\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+65
+66        <activity
+66-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\ac42ec86c5cde21351365378c2ed7e1c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+67            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+67-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\ac42ec86c5cde21351365378c2ed7e1c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+68            android:exported="false"
+68-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\ac42ec86c5cde21351365378c2ed7e1c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+69            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+69-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\ac42ec86c5cde21351365378c2ed7e1c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+70
+71        <meta-data
+71-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\7117f4003c977ba017665b30af658b01\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+72            android:name="com.google.android.gms.version"
+72-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\7117f4003c977ba017665b30af658b01\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+73            android:value="@integer/google_play_services_version" />
+73-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\7117f4003c977ba017665b30af658b01\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+74
+75        <provider
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\605fda7ece6256639bdf51e86162b4f1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+76            android:name="androidx.startup.InitializationProvider"
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\605fda7ece6256639bdf51e86162b4f1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+77            android:authorities="com.pedro.gestaoresiduos.androidx-startup"
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\605fda7ece6256639bdf51e86162b4f1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+78            android:exported="false" >
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\605fda7ece6256639bdf51e86162b4f1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+79            <meta-data
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\605fda7ece6256639bdf51e86162b4f1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\605fda7ece6256639bdf51e86162b4f1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+81                android:value="androidx.startup" />
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\605fda7ece6256639bdf51e86162b4f1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+82            <meta-data
+82-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\bb171269066d99226a95756713b399fc\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+83                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+83-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\bb171269066d99226a95756713b399fc\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+84                android:value="androidx.startup" />
+84-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\bb171269066d99226a95756713b399fc\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+85            <meta-data
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+86                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+87                android:value="androidx.startup" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+88        </provider>
+89
+90        <receiver
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+91            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+92            android:directBootAware="false"
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+93            android:enabled="true"
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+94            android:exported="true"
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+95            android:permission="android.permission.DUMP" >
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+96            <intent-filter>
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+97                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+98            </intent-filter>
+99            <intent-filter>
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+100                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+101            </intent-filter>
+102            <intent-filter>
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+103                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+104            </intent-filter>
+105            <intent-filter>
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+106                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\00319345e1bc7ae94222640e22679442\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+107            </intent-filter>
+108        </receiver>
+109    </application>
+110
+111</manifest>

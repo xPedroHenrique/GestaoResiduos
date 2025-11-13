@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#007AFF</color>
+    <color name="secondary">#34C759</color>
+    <color name="text">#111111</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Gestão de Resíduos</string>
+    <string name="calendar">Calendário</string>
+    <string name="education">Educação</string>
+    <string name="email">E-mail</string>
+    <string name="login">Entrar</string>
+    <string name="map">Mapa</string>
+    <string name="password">Senha</string>
+    <string name="register">Cadastrar</string>
+    <string name="titulo_mapa">Mapa - Tijucas</string>
+    <string name="welcome">Bem-vindo</string>
+    <style name="Theme.GRT" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+    </style>
+</resources>

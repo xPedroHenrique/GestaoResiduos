@@ -1,0 +1,3 @@
+com.pedro.gestaoresiduos.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

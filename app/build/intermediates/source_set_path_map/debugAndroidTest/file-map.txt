@@ -1,0 +1,6 @@
+com.pedro.gestaoresiduos.test.app-jetified-core-1.5.0-0 C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\8f4390934c6b424d890c4dbfbe06f9cd\transformed\jetified-core-1.5.0\res
+com.pedro.gestaoresiduos.test.app-jetified-annotation-experimental-1.3.0-1 C:\Users\ph291\.gradle\caches\9.0-milestone-1\transforms\9d7f12dbde665d43e1deab67bf9d439b\transformed\jetified-annotation-experimental-1.3.0\res
+com.pedro.gestaoresiduos.test.app-androidTest-2 C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\build\generated\res\resValues\androidTest\debug
+com.pedro.gestaoresiduos.test.app-mergeDebugAndroidTestResources-3 C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.pedro.gestaoresiduos.test.app-mergeDebugAndroidTestResources-4 C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.pedro.gestaoresiduos.test.app-merged_res-5 C:\Users\ph291\Downloads\GestaoResiduosEtapa2\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.pedro.gestaoresiduos.RegressaoUiTest" tests="1" failures="0" errors="0" skipped="0" time="21.692" timestamp="2025-11-12T23:46:54" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_5(AVD) - 14" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="verificarFluxoAposMudancas" classname="com.pedro.gestaoresiduos.RegressaoUiTest" time="17.734" />
+</testsuite>

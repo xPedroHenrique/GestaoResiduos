@@ -1,0 +1,403 @@
+11-12 23:46:20.141 26868 26916 I TestRunner: started: verificarFluxoAposMudancas(com.pedro.gestaoresiduos.RegressaoUiTest)
+11-12 23:46:20.207 26868 26916 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+11-12 23:46:20.748   889   949 D SplashScreenView: Build android.window.SplashScreenView{ff6dc96 V.E...... ......ID 0,0-0,0}
+11-12 23:46:20.748   889   949 D SplashScreenView: Icon: view: null drawable: null size: 0
+11-12 23:46:20.748   889   949 D SplashScreenView: Branding: view: android.view.View{555d017 G.ED..... ......I. 0,0-0,0 #10204ef android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+11-12 23:46:20.758   421   421 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+11-12 23:46:20.948  8281  8305 D EGL_emulation: app_time_stats: avg=8014.15ms min=8014.15ms max=8014.15ms count=1
+11-12 23:46:21.040   889   976 E OpenGLRenderer: Unable to match the desired swap behavior.
+11-12 23:46:21.329 26410 26659 W SQLiteLog: (28) double-quoted string literal: "9ccbbe7c-113e-438b-88fe-2dd3395b23a6"
+11-12 23:46:21.329 26410 26659 W SQLiteLog: (28) double-quoted string literal: "48111a31-cc82-4f99-8e5e-e21a377fcc73"
+11-12 23:46:21.329 26410 26659 W SQLiteLog: (28) double-quoted string literal: "357dafe4-1d25-4fbe-b7b6-cffc3f090906"
+11-12 23:46:21.329 26410 26659 W SQLiteLog: (28) double-quoted string literal: "dd962dd9-0d7b-4dfb-9a3c-e9dc7baa11fc"
+11-12 23:46:21.330 26410 26659 W SQLiteLog: (28) double-quoted string literal: "fcec5fa9-c8e2-4008-bd9a-56c37945e8e7"
+11-12 23:46:21.330 26410 26659 W SQLiteLog: (28) double-quoted string literal: "ff2b8d79-e87d-456b-ac34-f2099595faa5"
+11-12 23:46:21.330 26410 26659 W SQLiteLog: (28) double-quoted string literal: "16cba45b-1657-44cd-97c9-b37c0946c58d"
+11-12 23:46:21.330 26410 26659 W SQLiteLog: (28) double-quoted string literal: "7d95f7c0-4bfb-4840-a61f-ab3d6a5caf8a"
+11-12 23:46:21.330 26410 26659 W SQLiteLog: (28) double-quoted string literal: "2a72d0ad-8cdd-4eba-8d16-bca415267d14"
+11-12 23:46:21.331 26410 26659 W SQLiteLog: (28) double-quoted string literal: "d1ac8dcb-23fe-41cd-beb5-974c7547f1fc"
+11-12 23:46:21.331 26410 26659 W SQLiteLog: (28) double-quoted string literal: "96606417-fe51-4a8f-a8a4-5477f95ae358"
+11-12 23:46:21.331 26410 26659 W SQLiteLog: (28) double-quoted string literal: "79ac10cb-09d0-42ca-88ae-5e7c24d260cd"
+11-12 23:46:21.331 26410 26659 W SQLiteLog: (28) double-quoted string literal: "eae9f05d-6964-4f4e-95cd-1f98818aedc3"
+11-12 23:46:21.332 26410 26659 W SQLiteLog: (28) double-quoted string literal: "06bac8db-d6e0-4f8b-95a7-58caea8181d6"
+11-12 23:46:21.332 26410 26659 W SQLiteLog: (28) double-quoted string literal: "436167b4-b3e1-4131-b362-a006ddb93a4a"
+11-12 23:46:21.332 26410 26659 W SQLiteLog: (28) double-quoted string literal: "e140c74f-b279-4913-a63b-e13a7250a4b8"
+11-12 23:46:21.333 26410 26659 W SQLiteLog: (28) double-quoted string literal: "3f7ff4ad-07b2-4b7c-975c-a00124589b54"
+11-12 23:46:21.333 26410 26659 W SQLiteLog: (28) double-quoted string literal: "820b81f5-eac0-497a-b5b4-eaf9b0f262c7"
+11-12 23:46:21.333 26410 26659 W SQLiteLog: (28) double-quoted string literal: "ace78c03-3cd3-4ba5-8f6e-6097b465a731"
+11-12 23:46:21.333 26410 26659 W SQLiteLog: (28) double-quoted string literal: "ae47e3d6-5ed9-4339-b292-fdc418693280"
+11-12 23:46:21.333 26410 26659 W SQLiteLog: (28) double-quoted string literal: "2d131c2f-e952-49c0-9af4-d982287b6cbb"
+11-12 23:46:21.334 26410 26659 W SQLiteLog: (28) double-quoted string literal: "f5aaf32a-a4da-41c8-b9dc-5be34ee28d4d"
+11-12 23:46:21.335 26410 26659 W SQLiteLog: (28) double-quoted string literal: "dd431d71-64f9-4994-bebe-ff63ee60396e"
+11-12 23:46:21.335 26410 26659 W SQLiteLog: (28) double-quoted string literal: "6b44c4ac-4fd0-4441-afb1-237709303cfa"
+11-12 23:46:21.366   594   647 I libprocessgroup: Successfully killed process cgroup uid 10098 pid 25896 in 100ms
+11-12 23:46:21.428 26868 26868 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+11-12 23:46:21.461 26868 26920 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+11-12 23:46:21.470 26868 26920 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+11-12 23:46:21.480 26868 26920 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+11-12 23:46:21.598 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f in: PRE_ON_CREATE
+11-12 23:46:21.600 26868 26868 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+11-12 23:46:21.843 26608 26624 W ackageinstaller: Suspending all threads took: 29.410ms
+11-12 23:46:21.899   356   356 I Zygote  : Process 25896 exited due to signal 9 (Killed)
+11-12 23:46:22.216 26868 26868 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10220; state: ENABLED
+11-12 23:46:22.255   889   976 D EGL_emulation: app_time_stats: avg=14558.68ms min=4.70ms max=159791.48ms count=11
+11-12 23:46:22.446 26868 26868 W .gestaoresiduos: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+11-12 23:46:22.660   889   976 D EGL_emulation: app_time_stats: avg=1116.63ms min=9.85ms max=8589.24ms count=8
+11-12 23:46:23.262   889   976 D EGL_emulation: app_time_stats: avg=20.43ms min=3.26ms max=105.87ms count=35
+11-12 23:46:23.680 26868 26868 W .gestaoresiduos: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+11-12 23:46:23.695 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f in: CREATED
+11-12 23:46:23.696 26868 26868 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f
+11-12 23:46:23.756 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f in: STARTED
+11-12 23:46:23.759 26868 26868 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f
+11-12 23:46:23.773 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f in: RESUMED
+11-12 23:46:23.776 26868 26868 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f
+11-12 23:46:23.807 26868 26868 D CompatibilityChangeReporter: Compat change id reported: 237531167; UID 10220; state: DISABLED
+11-12 23:46:23.835 26868 26868 W OpenGLRenderer: Unknown dataspace 0
+11-12 23:46:23.989   594   647 I libprocessgroup: Successfully killed process cgroup uid 10087 pid 25928 in 56ms
+11-12 23:46:24.102   421   591 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10220 pid=0
+11-12 23:46:24.104   421   591 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10220 => denied (3019 us)
+11-12 23:46:24.118   421   435 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10220 pid=26868
+11-12 23:46:24.119   421   435 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10220 => denied (1547 us)
+11-12 23:46:24.125   421   435 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10220 pid=26868
+11-12 23:46:24.126   421   435 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10220 => denied (7188 us)
+11-12 23:46:24.126   421   591 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10220 pid=0
+11-12 23:46:24.127   421   591 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10220 => denied (22473 us)
+11-12 23:46:24.174 26868 26918 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+11-12 23:46:24.174 26868 26918 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+11-12 23:46:24.215 26868 26868 D AutofillManager: notifyViewEnteredForFillDialog:1073741824
+11-12 23:46:24.217 26868 26868 D AutofillManager: notifyViewEnteredForFillDialog:1073741825
+11-12 23:46:24.218 26868 26868 D AutofillManager: Triggering pre-emptive request for fill dialog.
+11-12 23:46:24.251   356   356 I Zygote  : Process 25928 exited due to signal 9 (Killed)
+11-12 23:46:24.791   160   160 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+11-12 23:46:24.792 26868 26918 I Gralloc4: mapper 4.x is not supported
+11-12 23:46:25.020 26868 26918 E OpenGLRenderer: Unable to match the desired swap behavior.
+11-12 23:46:25.363 26868 26923 E SurfaceSyncGroup: Failed to receive transaction ready in 1000ms. Marking SurfaceSyncGroup(wmsSync-VRI[LoginActivity]#0) as ready
+11-12 23:46:25.417   594   729 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10220 pid=0
+11-12 23:46:25.417   594   729 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10220 => denied (655 us)
+11-12 23:46:25.417   594   729 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10220 pid=0
+11-12 23:46:25.417   594   729 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10220 => denied (281 us)
+11-12 23:46:25.419   594   729 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10220 pid=0
+11-12 23:46:25.419   594   729 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10220 => denied (1410 us)
+11-12 23:46:25.428 26868 26923 E SurfaceSyncGroup: Failed to receive transaction ready in 1000ms. Marking SurfaceSyncGroup(VRI[LoginActivity]#1) as ready
+11-12 23:46:25.444   594   631 W ziparchive: Unable to open '/data/app/~~qdMVgVMNNBr7jbucA0froQ==/com.pedro.gestaoresiduos-6DnU1AS7dtbzjm5HMnZGPg==/base.dm': No such file or directory
+11-12 23:46:25.529   594   631 I ActivityTaskManager: Displayed com.pedro.gestaoresiduos/.ui.login.LoginActivity for user 0: +5s184ms
+11-12 23:46:25.667   889   976 D EGL_emulation: app_time_stats: avg=747.49ms min=6.65ms max=2903.01ms count=4
+11-12 23:46:25.876   889   948 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@11aa470
+11-12 23:46:25.888   594   729 W InputManager-JNI: Input channel object '1f4d371 Splash Screen com.pedro.gestaoresiduos (client)' was disposed without first being removed with the input manager!
+11-12 23:46:25.980 26868 26868 I Choreographer: Skipped 122 frames!  The application may be doing too much work on its main thread.
+11-12 23:46:25.991   889   948 W FrameTracker: Missed App frame:UNKNOWN: 24, 296002, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:25.992   889   948 W FrameTracker: Missed SF frame:UNKNOWN: 24, 296002, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:25.992 26868 26901 I OpenGLRenderer: Davey! duration=2067ms; Flags=1, FrameTimelineVsyncId=295946, IntendedVsync=11237142224486, Vsync=11237175557818, InputEventId=0, HandleInputStart=11237187370000, AnimationStart=11237187436500, PerformTraversalsStart=11237187517700, DrawStart=11238301040500, FrameDeadline=11237158891152, FrameInterval=11237187296100, FrameStartTime=16666666, SyncQueued=11238518828000, SyncStart=11238568923300, IssueDrawCommandsStart=11238575852800, SwapBuffers=11239180277300, FrameCompleted=11239260030600, DequeueBufferDuration=113500, QueueBufferDuration=523300, GpuCompleted=11239260030600, SwapBuffersCompleted=11239251264100, DisplayPresentTime=0, CommandSubmissionCompleted=11239180277300,
+11-12 23:46:25.992   889   948 W FrameTracker: Missing HWUI jank callback for vsyncId: 296002, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:25.992   889   976 D EGL_emulation: app_time_stats: avg=73.11ms min=3.53ms max=2116.44ms count=34
+11-12 23:46:25.997   889   948 W FrameTracker: Missed SF frame:UNKNOWN: 80, 296034, 114187380, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:25.998   889   948 W FrameTracker: Missed App frame:UNKNOWN: 88, 296056, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:25.998   889   948 W FrameTracker: Missed SF frame:UNKNOWN: 88, 296056, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:25.999   889   948 W FrameTracker: Missing HWUI jank callback for vsyncId: 296056, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:25.999   889   948 W FrameTracker: Missed App frame:UNKNOWN: 88, 296071, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:25.999   889   948 W FrameTracker: Missed SF frame:UNKNOWN: 88, 296071, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:25.999   889   948 W FrameTracker: Missing HWUI jank callback for vsyncId: 296071, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:26.007   889   948 W FrameTracker: Missed App frame:UNKNOWN: 72, 296096, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:26.016   889   948 W FrameTracker: Missing HWUI jank callback for vsyncId: 296096, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:26.019   889   948 W FrameTracker: Missed App frame:UNKNOWN: 88, 296111, 101979688, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:26.019   889   948 W FrameTracker: Missed SF frame:UNKNOWN: 88, 296111, 101979688, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+11-12 23:46:26.133   889   889 D StatusBarIconController: ignoring old pipeline callbacks, because the new mobile icons are enabled
+11-12 23:46:26.085 26868 26899 I OpenGLRenderer: Davey! duration=2120ms; Flags=0, FrameTimelineVsyncId=295969, IntendedVsync=11237208891150, Vsync=11239242224402, InputEventId=0, HandleInputStart=11239269878900, AnimationStart=11239269997400, PerformTraversalsStart=11239272092600, DrawStart=11239299031600, FrameDeadline=11239292224400, FrameInterval=11239256440500, FrameStartTime=16666666, SyncQueued=11239303014900, SyncStart=11239319045200, IssueDrawCommandsStart=11239319538400, SwapBuffers=11239322785100, FrameCompleted=11239345765400, DequeueBufferDuration=58600, QueueBufferDuration=890700, GpuCompleted=11239345765400, SwapBuffersCompleted=11239326366500, DisplayPresentTime=0, CommandSubmissionCompleted=11239322785100,
+11-12 23:46:26.156 26868 26868 D CompatibilityChangeReporter: Compat change id reported: 163400105; UID 10220; state: ENABLED
+11-12 23:46:26.181 26868 26868 I AssistStructure: Flattened final assist data: 1752 bytes, containing 1 windows, 8 views
+11-12 23:46:26.204 21904 22065 D BtGatt.ScanManager: uid 10128 isForeground true scanMode -1
+11-12 23:46:26.204 21904 22065 D BtGatt.ScanManager: uid 10128 isForeground true scanMode -1
+11-12 23:46:26.273 26868 26929 D ProfileInstaller: Installing profile for com.pedro.gestaoresiduos
+11-12 23:46:26.304   594   729 I ImeTracker: com.pedro.gestaoresiduos:5ba8b763: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+11-12 23:46:26.304  3680  3947 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+11-12 23:46:26.305   594   729 I ImeTracker: com.pedro.gestaoresiduos:5ba8b763: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-12 23:46:26.305  3680  3947 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+11-12 23:46:26.320  3680  3947 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+11-12 23:46:26.372  8281  8299 I ImeTracker: com.google.android.apps.nexuslauncher:70989b18: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+11-12 23:46:26.432  8281  8316 D OneSearchSuggestProvider: Shut down the binder channel
+11-12 23:46:26.437 11598 11606 I gle.android.gms: CollectorTransition concurrent copying GC freed 114841(5934KB) AllocSpace objects, 33(1428KB) LOS objects, 49% free, 10MB/20MB, paused 2.249ms,242us total 2.517s
+11-12 23:46:26.467  3680  3701 I FontLog : Pulling font file for id = 143, cache size = 4 [CONTEXT service_id=132 ]
+11-12 23:46:26.532   594  1700 I ImeTracker: com.google.android.apps.nexuslauncher:70989b18: onCancelled at PHASE_SERVER_CLIENT_FOCUSED
+11-12 23:46:26.656  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+11-12 23:46:26.676  3680  3701 I FontLog : Pulling font file for id = 143, cache size = 4 [CONTEXT service_id=132 ]
+11-12 23:46:26.842 26868 26927 W .gestaoresiduos: Verification of void androidx.emoji2.text.flatbuffer.MetadataList.addList(androidx.emoji2.text.flatbuffer.FlatBufferBuilder, int) took 119.128ms (50.37 bytecodes/s) (1352B approximate peak alloc)
+11-12 23:46:26.896  8281  8294 I IPCThreadState: oneway function results for code 2 on binder at 0x72197b7abbe0 will be dropped but finished with status UNKNOWN_TRANSACTION
+11-12 23:46:26.959 26868 26916 W FileTestStorage: Output properties is not supported.
+11-12 23:46:26.963 26868 26916 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+11-12 23:46:26.976  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+11-12 23:46:26.999   889   976 D EGL_emulation: app_time_stats: avg=19.51ms min=3.15ms max=99.43ms count=38
+11-12 23:46:27.029 26868 26916 D CompatibilityChangeReporter: Compat change id reported: 247079863; UID 10220; state: ENABLED
+11-12 23:46:27.130 26868 26916 D EventInjectionStrategy: Creating injection strategy with input manager.
+11-12 23:46:27.130 26868 26916 W .gestaoresiduos: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+11-12 23:46:27.165 26868 26916 W .gestaoresiduos: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+11-12 23:46:27.178 26868 26916 W .gestaoresiduos: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+11-12 23:46:27.415  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.pedro.gestaoresiduos fieldId=0 fieldName=null extras=null}, false)
+11-12 23:46:27.418  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+11-12 23:46:27.430  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+11-12 23:46:27.459 26868 26916 W .gestaoresiduos: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+11-12 23:46:27.532 26868 26868 W .gestaoresiduos: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+11-12 23:46:27.544 26868 26868 W .gestaoresiduos: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+11-12 23:46:27.544 26868 26868 W .gestaoresiduos: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+11-12 23:46:27.568 26868 26868 W .gestaoresiduos: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+11-12 23:46:27.568 26868 26868 W .gestaoresiduos: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+11-12 23:46:27.568 26868 26868 W .gestaoresiduos: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+11-12 23:46:27.585 26868 26868 I ViewInteraction: Performing 'type text(teste@exemplo.com)' action on view view.getId() is <2131230907/com.pedro.gestaoresiduos:id/etEmail>
+11-12 23:46:27.647   870   870 I wpa_supplicant: wlan0: CTRL-EVENT-BEACON-LOSS
+11-12 23:46:27.673 26868 26918 D EGL_emulation: app_time_stats: avg=264.63ms min=5.02ms max=955.46ms count=6
+11-12 23:46:27.709  3680  3680 W AutofillChimeraService: Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+11-12 23:46:27.738  8281  8281 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=389.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=11240883, downTime=11240883, deviceId=-1, source=0x1002, displayId=0, eventId=-41559092 }
+11-12 23:46:27.767  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+11-12 23:46:27.774 26868 26868 I ImeTracker: com.pedro.gestaoresiduos:89871370: onRequestShow at ORIGIN_CLIENT_SHOW_SOFT_INPUT reason SHOW_SOFT_INPUT
+11-12 23:46:27.777 26868 26868 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{11a521 VFED..CL. .F.P..ID 66,192-1014,316 #7f0800bb app:id/etEmail aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+11-12 23:46:27.789  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+11-12 23:46:27.789  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x21(EmailAddress) imeOptions=0x8000005 privateImeOptions=null actionName=NEXT actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.pedro.gestaoresiduos fieldId=2131230907 fieldName=null extras=null}, false)
+11-12 23:46:27.789  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+11-12 23:46:27.819 26868 26868 I AssistStructure: Flattened final assist data: 1752 bytes, containing 1 windows, 8 views
+11-12 23:46:27.832  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+11-12 23:46:27.841  8281  8281 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=389.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=11240993, downTime=11240883, deviceId=-1, source=0x1002, displayId=0, eventId=-312703189 }
+11-12 23:46:27.871  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:27.876 11598 11598 D BoundBrokerSvc: onBind: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+11-12 23:46:27.877 11598 11598 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+11-12 23:46:27.933  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1995 onStartInputView(EditorInfo{inputType=0x21(EmailAddress) imeOptions=0x8000005 privateImeOptions=null actionName=NEXT actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.pedro.gestaoresiduos fieldId=2131230907 fieldName=null extras=null}, false)
+11-12 23:46:27.947  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+11-12 23:46:27.968  1513  1513 W ModuleManager: ModuleManager.loadModule():450 Module erj is not available
+11-12 23:46:27.989  1513  1757 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:28.038  1513  1513 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():189 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+11-12 23:46:28.086  1513  1513 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=0x21(EmailAddress) imeOptions=0x8000005 privateImeOptions=null actionName=NEXT actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.pedro.gestaoresiduos fieldId=2131230907 fieldName=null extras=null, IncognitoMode = false, DeviceLocked = false
+11-12 23:46:28.191 26868 26868 D UiControllerImpl: Injecting string: "teste@exemplo.com"
+11-12 23:46:28.196  1513  1513 I Delight5Facilitator: Delight5Facilitator.initializeForIme():777 initializeForIme() : Locale = [en_US], layout = qwerty
+11-12 23:46:28.304  1513  1513 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+11-12 23:46:28.304  1513  1513 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+11-12 23:46:28.323  1513  1513 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1003 inline flag updated to:false
+11-12 23:46:28.328  1513  4240 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():205 maybeScheduleAutoPackDownloadForFallback()
+11-12 23:46:28.354  1513  4240 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():195 maybeScheduleAutoPackDownload() for language tag en-US
+11-12 23:46:28.551  1513  1513 I KeyboardWrapper: KeyboardWrapper.consumeEvent():275 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+11-12 23:46:28.765  1513  1513 I KeyboardViewHelper: KeyboardViewHelper.getView():170 Get view with height ratio:1.000000
+11-12 23:46:28.772 26868 26918 D EGL_emulation: app_time_stats: avg=273.17ms min=31.34ms max=502.00ms count=4
+11-12 23:46:28.878  1513  1513 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+11-12 23:46:28.926  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:28.928  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_OPTIONAL
+11-12 23:46:28.928  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+11-12 23:46:28.930  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = BODY, shownType = SHOW_MANDATORY
+11-12 23:46:28.931  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+11-12 23:46:28.932  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = FLOATING_CANDIDATES, shownType = HIDE
+11-12 23:46:28.934  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = false
+11-12 23:46:28.939  1513  1513 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+11-12 23:46:28.954  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:28.978  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:28.982  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:28.983  1513  1513 I KeyboardModeManager: KeyboardModeManager.setInputView():364 setInputView() : supportsOneHandedMode=true
+11-12 23:46:28.986  1513  1513 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+11-12 23:46:28.987  1513  1513 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+11-12 23:46:29.014  1513  1513 I KeyboardModeManager: KeyboardModeManager.setInputView():356 setInputView() : entry=hwn{languageTag=en-US, variant=qwerty, hasLocalizedResources=true, conditionCacheKey=_device=phone_device_size=default_enable_adaptive_text_editing=true_enable_inline_suggestions_on_client_side=false_enable_large_tablet_batch_1=false_enable_large_tablet_batch_2=false_enable_more_candidates_view_for_multilingual=false_enable_nav_redesign=false_enable_number_row=false_enable_preemptive_decode=true_enable_secondary_symbols=false_expressions=normal_four_or_more_letter_rows=false_keyboard_mode=normal_language=en-US_orientation=portrait_physical_keyboard=qwerty_show_secondary_digits=true_show_suggestions=true_split_with_duplicate_keys=true_variant=qwerty, imeDef.stringId=ime_english_united_states, imeDef.className=com.google.android.apps.inputmethod.libs.latin5.LatinIme, imeDef.languageTag=en-US}
+11-12 23:46:29.147  1513  1513 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$3.display():216 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION
+11-12 23:46:29.153  1513  1513 I CurrentMicStatusHolder: CurrentMicStatusHolder.onStartInputView():79 Current Mic status = {MicIconHidden-EmailInputType,}
+11-12 23:46:29.154  1513  1513 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():383 No private IME option set to start voice input.
+11-12 23:46:29.176 11598 11598 D BoundBrokerSvc: onBind: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+11-12 23:46:29.176 11598 11598 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+11-12 23:46:29.216  1513  1513 I Choreographer: Skipped 77 frames!  The application may be doing too much work on its main thread.
+11-12 23:46:29.246  3680  3680 W AutofillChimeraService: Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+11-12 23:46:29.292  1201  1201 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:818583868
+11-12 23:46:29.311  3680  3701 I IPCThreadState: oneway function results for code 1 on binder at 0x72197b817f10 will be dropped but finished with status UNKNOWN_TRANSACTION and reply parcel size 80
+11-12 23:46:29.686  1513  1904 E OpenGLRenderer: Unable to match the desired swap behavior.
+11-12 23:46:29.800 26868 26918 D EGL_emulation: app_time_stats: avg=513.50ms min=492.77ms max=534.23ms count=2
+11-12 23:46:29.960 26868 26868 D InsetsController: show(ime(), fromIme=true)
+11-12 23:46:30.010  1513  4251 I OpenGLRenderer: Davey! duration=1998ms; Flags=1, FrameTimelineVsyncId=296978, IntendedVsync=11241208890990, Vsync=11242492224272, InputEventId=0, HandleInputStart=11242495180100, AnimationStart=11242495234800, PerformTraversalsStart=11242495307800, DrawStart=11242967023900, FrameDeadline=11241225557656, FrameInterval=11242494461900, FrameStartTime=16666666, SyncQueued=11243059653300, SyncStart=11243085164000, IssueDrawCommandsStart=11243108860500, SwapBuffers=11243174147300, FrameCompleted=11243232986100, DequeueBufferDuration=25739500, QueueBufferDuration=839900, GpuCompleted=11243231229900, SwapBuffersCompleted=11243232986100, DisplayPresentTime=0, CommandSubmissionCompleted=11243174147300,
+11-12 23:46:30.049  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:30.093  1513  1513 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+11-12 23:46:30.126  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:30.128  1513  1513 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+11-12 23:46:30.153  1513  2303 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():457 setKeyboardLayout()
+11-12 23:46:30.284 26868 26868 I ImeTracker: com.pedro.gestaoresiduos:89871370: onShown
+11-12 23:46:30.300 26868 26868 W FrameTracker: Missed App frame:UNKNOWN: 24, 297128, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.pedro.gestaoresiduos>
+11-12 23:46:30.301 26868 26868 W FrameTracker: Missed SF frame:UNKNOWN: 24, 297128, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.pedro.gestaoresiduos>
+11-12 23:46:30.301 26868 26868 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 297136, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.pedro.gestaoresiduos>
+11-12 23:46:30.302 26868 26868 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 297151, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.pedro.gestaoresiduos>
+11-12 23:46:30.309 26868 26868 W FrameTracker: Missed SF frame:JANK_SURFACEFLINGER_DEADLINE_MISSED, 297159, 0, CUJ=J<IME_INSETS_ANIMATION::0@0@com.pedro.gestaoresiduos>
+11-12 23:46:30.331 26868 26936 V PerfettoTrigger: Triggering /system/bin/trigger_perfetto com.android.telemetry.interaction-jank-monitor-69
+11-12 23:46:30.341  1513  1513 I Choreographer: Skipped 57 frames!  The application may be doing too much work on its main thread.
+11-12 23:46:30.358   889   976 D EGL_emulation: app_time_stats: avg=255.71ms min=3.92ms max=2907.41ms count=13
+11-12 23:46:30.361 11598 11598 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:30.361 11598 11598 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:30.492 11598 11598 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:30.596 11598 11598 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:30.596 11598 11598 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:30.696  1513 20501 I OpenGLRenderer: Davey! duration=1310ms; Flags=0, FrameTimelineVsyncId=297049, IntendedVsync=11242658890932, Vsync=11243608890894, InputEventId=0, HandleInputStart=11243627309200, AnimationStart=11243627426300, PerformTraversalsStart=11243627469500, DrawStart=11243701307000, FrameDeadline=11243258890908, FrameInterval=11243619784600, FrameStartTime=16666666, SyncQueued=11243868341300, SyncStart=11243872280600, IssueDrawCommandsStart=11243873236000, SwapBuffers=11243909491900, FrameCompleted=11243973336900, DequeueBufferDuration=62221100, QueueBufferDuration=462200, GpuCompleted=11243930428100, SwapBuffersCompleted=11243973336900, DisplayPresentTime=0, CommandSubmissionCompleted=11243909491900,
+11-12 23:46:30.719 11598 11598 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:30.940 26868 26918 D EGL_emulation: app_time_stats: avg=227.29ms min=121.07ms max=370.94ms count=5
+11-12 23:46:31.358   889   976 D EGL_emulation: app_time_stats: avg=11.12ms min=2.40ms max=64.10ms count=51
+11-12 23:46:31.497  1513  1513 I Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+11-12 23:46:31.592  1513  1513 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+11-12 23:46:31.722  1513  2303 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():457 setKeyboardLayout()
+11-12 23:46:31.729  1513  2303 W Delight5Decoder: Delight5DecoderWrapper.shouldAbandonMessage():1983 Detected old [FetchSuggestions] request in background: 438<439
+11-12 23:46:31.976  1513  2303 I native  : I0000 00:00:1762991191.854433    2303 input-context-store.cc:255] Ignoring stale client request for FetchSuggestions
+11-12 23:46:31.980  1513  1513 W InputContextProxyV4: InputContextProxyV4.applyClientDiffInternal():897 Ignore [FetchSuggestions] diff due to stale request: 440<444, inputStateId=342, lastInputStateId=343
+11-12 23:46:32.009 26868 26918 D EGL_emulation: app_time_stats: avg=133.12ms min=38.36ms max=485.05ms count=8
+11-12 23:46:32.318  1513  2303 I native  : I0000 00:00:1762991192.318855    2303 input-context-store.cc:255] Ignoring stale client request for FetchSuggestions
+11-12 23:46:32.323  1513  1513 W InputContextProxyV4: InputContextProxyV4.applyClientDiffInternal():897 Ignore [FetchSuggestions] diff due to stale request: 456<458, inputStateId=356, lastInputStateId=356
+11-12 23:46:32.387 26868 26868 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2131230907/com.pedro.gestaoresiduos:id/etEmail>
+11-12 23:46:32.391 26868 26868 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@711bcf5]
+11-12 23:46:32.393 26868 26868 I ImeTracker: com.pedro.gestaoresiduos:c7ca3f64: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+11-12 23:46:32.397  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2241
+11-12 23:46:32.401  1513  1513 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+11-12 23:46:32.409  1513  1513 I InputBundle: InputBundle.consumeEvent():923 Skip consuming an event as keyboard status is 0
+11-12 23:46:32.413  1513  1513 I KeyboardWrapper: KeyboardWrapper.consumeEvent():275 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+11-12 23:46:32.415  1513  1513 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():77 shutdown()
+11-12 23:46:32.419  1513  1513 I AndroidIME: AbstractIme.onDeactivate():207 LatinIme.onDeactivate()
+11-12 23:46:32.423  1513  1757 W ModuleManager: ModuleManager.loadModule():450 Module jjj is not available
+11-12 23:46:32.444 26868 26868 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@123799275 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@f3ad18
+11-12 23:46:32.445  1513  1904 D EGL_emulation: app_time_stats: avg=404.63ms min=18.87ms max=848.33ms count=6
+11-12 23:46:32.609   889   889 D StatusBarIconController: ignoring old pipeline callback because the new wifi icon is enabled
+11-12 23:46:32.689 26868 26868 I ImeTracker: com.pedro.gestaoresiduos:2f560f5f: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT_BY_INSETS_API
+11-12 23:46:32.693   594  1699 I ImeTracker: com.pedro.gestaoresiduos:2f560f5f: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-12 23:46:32.701 26868 26868 I ImeTracker: com.pedro.gestaoresiduos:c7ca3f64: onHidden
+11-12 23:46:32.712   889   976 D EGL_emulation: app_time_stats: avg=22.80ms min=2.14ms max=641.10ms count=41
+11-12 23:46:32.723 21904 22065 D BtGatt.ScanManager: uid 10128 isForeground true scanMode -1
+11-12 23:46:32.724 21904 22065 D BtGatt.ScanManager: uid 10128 isForeground true scanMode -1
+11-12 23:46:32.745 26868 26868 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@711bcf5]
+11-12 23:46:32.773 26868 26868 I ViewInteraction: Performing 'type text(1234)' action on view view.getId() is <2131230908/com.pedro.gestaoresiduos:id/etSenha>
+11-12 23:46:32.786  8281  8281 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=546.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=11246059, downTime=11246059, deviceId=-1, source=0x1002, displayId=0, eventId=-888182853 }
+11-12 23:46:32.837  8281  8281 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=546.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=11246108, downTime=11246059, deviceId=-1, source=0x1002, displayId=0, eventId=-571488181 }
+11-12 23:46:32.850 26868 26868 I ImeTracker: com.pedro.gestaoresiduos:67171919: onRequestShow at ORIGIN_CLIENT_SHOW_SOFT_INPUT reason SHOW_SOFT_INPUT
+11-12 23:46:32.852  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+11-12 23:46:32.852 26868 26868 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{598d46 VFED..CL. .F.P..ID 66,349-1014,473 #7f0800bc app:id/etSenha aid=1073741825} flags=0 reason=SHOW_SOFT_INPUT
+11-12 23:46:32.858  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+11-12 23:46:32.889  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x81(Password) imeOptions=0x4000006 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.pedro.gestaoresiduos fieldId=2131230908 fieldName=null extras=Bundle[mParcelledData.dataSize=240]}, false)
+11-12 23:46:32.890  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+11-12 23:46:32.893  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+11-12 23:46:32.906  1513  1513 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():88 Unregister key sequence hox{callback=bxi@6de98b4, lastModifier=0, keyCodes=[57, 57], actions=[1, 0]}
+11-12 23:46:32.908  1513  1513 I HardKeyTracker: HardKeyTracker.unregisterKeySequence():88 Unregister key sequence hox{callback=bxi@6de98b4, lastModifier=0, keyCodes=[58, 58], actions=[1, 0]}
+11-12 23:46:32.912  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:32.915  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1995 onStartInputView(EditorInfo{inputType=0x81(Password) imeOptions=0x4000006 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.pedro.gestaoresiduos fieldId=2131230908 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=9, android.support.text.emoji.emojiCompat_replaceAll=false}]}, false)
+11-12 23:46:32.920  1513  1757 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:32.924  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+11-12 23:46:32.925  1513  1513 W ModuleManager: ModuleManager.loadModule():450 Module erj is not available
+11-12 23:46:32.939  1513  1513 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():189 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+11-12 23:46:32.944  1513  1513 I AndroidIME: AbstractIme.onActivate():86 PasswordIme.onActivate() : EditorInfo = inputType=0x81(Password) imeOptions=0x4000006 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.pedro.gestaoresiduos fieldId=2131230908 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=9, android.support.text.emoji.emojiCompat_replaceAll=false}], IncognitoMode = false, DeviceLocked = false
+11-12 23:46:32.957  1513  1513 I KeyboardViewHelper: KeyboardViewHelper.getView():170 Get view with height ratio:1.000000
+11-12 23:46:33.016  1513  1513 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+11-12 23:46:33.020  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = HEADER, shownType = SHOW_MANDATORY
+11-12 23:46:33.022  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+11-12 23:46:33.024  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = BODY, shownType = SHOW_MANDATORY
+11-12 23:46:33.025  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = true
+11-12 23:46:33.027  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3483 setKeyboardViewShown() : type = FLOATING_CANDIDATES, shownType = HIDE
+11-12 23:46:33.028  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.setKeyboardViewShown():3530 setKeyboardViewShown() : shouldShow = false
+11-12 23:46:33.037  1513  1513 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():40 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+11-12 23:46:33.040  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:33.042  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:33.044  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:33.045  1513  1513 I KeyboardModeManager: KeyboardModeManager.setInputView():364 setInputView() : supportsOneHandedMode=true
+11-12 23:46:33.046  1513  1513 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+11-12 23:46:33.048  1513  1513 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():116 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+11-12 23:46:33.055  1513  1513 I KeyboardModeManager: KeyboardModeManager.setInputView():356 setInputView() : entry=hwn{languageTag=en-US, variant=qwerty, hasLocalizedResources=true, conditionCacheKey=_device=phone_device_size=default_enable_adaptive_text_editing=true_enable_inline_suggestions_on_client_side=false_enable_large_tablet_batch_1=false_enable_large_tablet_batch_2=false_enable_more_candidates_view_for_multilingual=false_enable_nav_redesign=false_enable_number_row=false_enable_preemptive_decode=true_enable_secondary_symbols=false_expressions=normal_four_or_more_letter_rows=false_keyboard_mode=normal_language=en-US_orientation=portrait_physical_keyboard=qwerty_show_secondary_digits=true_show_suggestions=true_split_with_duplicate_keys=true_variant=qwerty, imeDef.stringId=ime_english_united_states, imeDef.className=com.google.android.apps.inputmethod.libs.latin5.LatinIme, imeDef.languageTag=en-US}
+11-12 23:46:33.080  1513  1513 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$3.display():216 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION
+11-12 23:46:33.087  1513  1513 I CurrentMicStatusHolder: CurrentMicStatusHolder.onStartInputView():79 Current Mic status = {MicIconHidden-SettingOff,MicIconHidden-PasswordOrNumberOrDateInputType,}
+11-12 23:46:33.088  1513  1513 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():383 No private IME option set to start voice input.
+11-12 23:46:33.120 26868 26868 D UiControllerImpl: Injecting string: "1234"
+11-12 23:46:33.134 11598 11598 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:33.134 11598 11598 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:33.151 11598 11598 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:33.302  1513  1904 E OpenGLRenderer: Unable to match the desired swap behavior.
+11-12 23:46:33.360 26868 26918 D EGL_emulation: app_time_stats: avg=112.42ms min=23.76ms max=460.07ms count=12
+11-12 23:46:33.396  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:33.403  1513  1513 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():122 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+11-12 23:46:33.447 11598 11598 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:33.447 11598 11598 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:33.461 11598 11598 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+11-12 23:46:33.480 26868 26868 D InsetsController: show(ime(), fromIme=true)
+11-12 23:46:33.720 26868 26868 I ImeTracker: com.pedro.gestaoresiduos:67171919: onShown
+11-12 23:46:33.735   889   976 D EGL_emulation: app_time_stats: avg=10.97ms min=2.28ms max=70.72ms count=53
+11-12 23:46:33.809 26868 26868 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2131230908/com.pedro.gestaoresiduos:id/etSenha>
+11-12 23:46:33.811 26868 26868 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@48d665c]
+11-12 23:46:33.815 26868 26868 I ImeTracker: com.pedro.gestaoresiduos:c5f8d64c: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+11-12 23:46:33.820  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2241
+11-12 23:46:33.822  1513  1513 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+11-12 23:46:33.828  1513  1513 I AndroidIME: AbstractIme.onDeactivate():207 PasswordIme.onDeactivate()
+11-12 23:46:33.856 26868 26868 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@123799275 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@11516eb
+11-12 23:46:34.059 26868 26868 I ImeTracker: com.pedro.gestaoresiduos:f9ffb2e: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT_BY_INSETS_API
+11-12 23:46:34.062   594  1878 I ImeTracker: com.pedro.gestaoresiduos:f9ffb2e: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-12 23:46:34.071 26868 26868 I ImeTracker: com.pedro.gestaoresiduos:c5f8d64c: onHidden
+11-12 23:46:34.163 26868 26868 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@48d665c]
+11-12 23:46:34.177 26868 26868 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230823/com.pedro.gestaoresiduos:id/btnEntrar>
+11-12 23:46:34.186  8281  8281 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=740.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=11247459, downTime=11247459, deviceId=-1, source=0x1002, displayId=0, eventId=-136294957 }
+11-12 23:46:34.380 26868 26918 D EGL_emulation: app_time_stats: avg=203.24ms min=56.46ms max=593.28ms count=5
+11-12 23:46:34.430  8281  8281 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=740.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=11247702, downTime=11247459, deviceId=-1, source=0x1002, displayId=0, eventId=-585573405 }
+11-12 23:46:34.529 26868 26868 D LoginActivity: email='teste@exemplo.com' senhaLen=4
+11-12 23:46:34.743   889   976 D EGL_emulation: app_time_stats: avg=8.20ms min=2.93ms max=41.06ms count=50
+11-12 23:46:34.820 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f in: PAUSED
+11-12 23:46:34.821 26868 26868 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f
+11-12 23:46:34.850   421   421 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+11-12 23:46:34.957 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.home.HomeActivity@46b66b6 in: PRE_ON_CREATE
+11-12 23:46:34.960 26868 26868 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.pedro.gestaoresiduos/.ui.login.LoginActivity }, activity.getIntent()=Intent { cmp=com.pedro.gestaoresiduos/.ui.home.HomeActivity }, activity=com.pedro.gestaoresiduos.ui.home.HomeActivity@46b66b6
+11-12 23:46:35.253 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.home.HomeActivity@46b66b6 in: CREATED
+11-12 23:46:35.257 26868 26868 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.pedro.gestaoresiduos/.ui.login.LoginActivity }, activity.getIntent()=Intent { cmp=com.pedro.gestaoresiduos/.ui.home.HomeActivity }, activity=com.pedro.gestaoresiduos.ui.home.HomeActivity@46b66b6
+11-12 23:46:35.279 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.home.HomeActivity@46b66b6 in: STARTED
+11-12 23:46:35.285 26868 26868 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.pedro.gestaoresiduos/.ui.login.LoginActivity }, activity.getIntent()=Intent { cmp=com.pedro.gestaoresiduos/.ui.home.HomeActivity }, activity=com.pedro.gestaoresiduos.ui.home.HomeActivity@46b66b6
+11-12 23:46:35.293 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.home.HomeActivity@46b66b6 in: RESUMED
+11-12 23:46:35.294 26868 26868 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.pedro.gestaoresiduos/.ui.login.LoginActivity }, activity.getIntent()=Intent { cmp=com.pedro.gestaoresiduos/.ui.home.HomeActivity }, activity=com.pedro.gestaoresiduos.ui.home.HomeActivity@46b66b6
+11-12 23:46:35.392 26868 26918 D EGL_emulation: app_time_stats: avg=16.89ms min=4.12ms max=117.78ms count=46
+11-12 23:46:35.476   418   815 D audioserver: FGS Logger Transaction failed
+11-12 23:46:35.479   418   815 D audioserver: -129
+11-12 23:46:35.603 26868 26918 E OpenGLRenderer: Unable to match the desired swap behavior.
+11-12 23:46:35.607   870   870 I wpa_supplicant: wlan0: CTRL-EVENT-BEACON-LOSS
+11-12 23:46:35.782   889   889 D StatusBarIconController: ignoring old pipeline callback because the new wifi icon is enabled
+11-12 23:46:35.858 26868 26901 I OpenGLRenderer: Davey! duration=928ms; Flags=1, FrameTimelineVsyncId=299901, IntendedVsync=11248158890712, Vsync=11248608890694, InputEventId=0, HandleInputStart=11248621283700, AnimationStart=11248621344700, PerformTraversalsStart=11248623060700, DrawStart=11248889017500, FrameDeadline=11248175557378, FrameInterval=11248620326400, FrameStartTime=16666666, SyncQueued=11249054368900, SyncStart=11249089505900, IssueDrawCommandsStart=11249089609800, SwapBuffers=11249093165500, FrameCompleted=11249122297500, DequeueBufferDuration=59500, QueueBufferDuration=772800, GpuCompleted=11249122297500, SwapBuffersCompleted=11249095610300, DisplayPresentTime=0, CommandSubmissionCompleted=11249093165500,
+11-12 23:46:35.872   594   631 I ActivityTaskManager: Displayed com.pedro.gestaoresiduos/.ui.home.HomeActivity for user 0: +1s292ms
+11-12 23:46:35.891   418   527 D AudioFlinger: mixer(0x722b5b3d4930) throttle end: throttle time(36)
+11-12 23:46:35.901 26868 26868 I Choreographer: Skipped 33 frames!  The application may be doing too much work on its main thread.
+11-12 23:46:36.041   418   527 D audioserver: FGS Logger Transaction failed
+11-12 23:46:36.042   418   527 D audioserver: -129
+11-12 23:46:36.087   889   889 D StatusBarIconController: ignoring old pipeline callbacks, because the new mobile icons are enabled
+11-12 23:46:36.114   889   976 D EGL_emulation: app_time_stats: avg=2610.30ms min=23.36ms max=10309.36ms count=4
+11-12 23:46:36.274 26868 26868 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+11-12 23:46:36.301 26868 26868 D RootViewPicker: Root not ready - waiting: 25ms for one to appear.
+11-12 23:46:36.336 26868 26868 D RootViewPicker: Root not ready - waiting: 50ms for one to appear.
+11-12 23:46:36.380   594   729 I ImeTracker: com.pedro.gestaoresiduos:2abbb730: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+11-12 23:46:36.381   594   729 I ImeTracker: com.pedro.gestaoresiduos:2abbb730: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-12 23:46:36.386  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+11-12 23:46:36.393  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+11-12 23:46:36.398  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.pedro.gestaoresiduos fieldId=0 fieldName=null extras=null}, false)
+11-12 23:46:36.400  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+11-12 23:46:36.404  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+11-12 23:46:36.412  1513  1513 I HardKeyTracker: HardKeyTracker.registerKeySequence():62 Register key sequence hox{callback=eac@507f41e, lastModifier=0, keyCodes=[57, 57], actions=[1, 0]}
+11-12 23:46:36.416  1513  1513 I HardKeyTracker: HardKeyTracker.registerKeySequence():62 Register key sequence hox{callback=eac@f8fc915, lastModifier=0, keyCodes=[58, 58], actions=[1, 0]}
+11-12 23:46:36.520 26868 26868 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Calendário"
+11-12 23:46:36.545 26868 26868 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230822/com.pedro.gestaoresiduos:id/btnEducativo>
+11-12 23:46:36.555  8281  8281 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1369.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=11249827, downTime=11249827, deviceId=-1, source=0x1002, displayId=0, eventId=-296561899 }
+11-12 23:46:36.569 26868 26868 D AutofillManager: Fill dialog is enabled:false, hints=[password, passwordAuto, creditCardNumber, creditCardSecurityCode, creditCardExpirationDate]
+11-12 23:46:36.648  8281  8281 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1369.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=11249920, downTime=11249827, deviceId=-1, source=0x1002, displayId=0, eventId=-594938706 }
+11-12 23:46:36.659   418   815 D audioserver: FGS Logger Transaction failed
+11-12 23:46:36.659   418   815 D audioserver: -129
+11-12 23:46:36.689   418   527 D AudioFlinger: mixer(0x722b5b3d4930) throttle end: throttle time(23)
+11-12 23:46:36.704 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.home.HomeActivity@46b66b6 in: PAUSED
+11-12 23:46:36.706 26868 26868 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.pedro.gestaoresiduos/.ui.login.LoginActivity }, activity.getIntent()=Intent { cmp=com.pedro.gestaoresiduos/.ui.home.HomeActivity }, activity=com.pedro.gestaoresiduos.ui.home.HomeActivity@46b66b6
+11-12 23:46:36.818 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.educativo.EducativoActivity@90786bd in: PRE_ON_CREATE
+11-12 23:46:36.821 26868 26868 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.pedro.gestaoresiduos/.ui.login.LoginActivity }, activity.getIntent()=Intent { cmp=com.pedro.gestaoresiduos/.ui.educativo.EducativoActivity }, activity=com.pedro.gestaoresiduos.ui.educativo.EducativoActivity@90786bd
+11-12 23:46:36.868 26868 26868 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10220; state: ENABLED
+11-12 23:46:36.895   418   527 D audioserver: FGS Logger Transaction failed
+11-12 23:46:36.895   418   527 D audioserver: -129
+11-12 23:46:36.922 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.educativo.EducativoActivity@90786bd in: CREATED
+11-12 23:46:36.926 26868 26868 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.pedro.gestaoresiduos/.ui.login.LoginActivity }, activity.getIntent()=Intent { cmp=com.pedro.gestaoresiduos/.ui.educativo.EducativoActivity }, activity=com.pedro.gestaoresiduos.ui.educativo.EducativoActivity@90786bd
+11-12 23:46:36.940 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.educativo.EducativoActivity@90786bd in: STARTED
+11-12 23:46:36.944 26868 26918 D EGL_emulation: app_time_stats: avg=42.17ms min=4.20ms max=445.06ms count=25
+11-12 23:46:36.947 26868 26868 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.pedro.gestaoresiduos/.ui.login.LoginActivity }, activity.getIntent()=Intent { cmp=com.pedro.gestaoresiduos/.ui.educativo.EducativoActivity }, activity=com.pedro.gestaoresiduos.ui.educativo.EducativoActivity@90786bd
+11-12 23:46:36.953 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.educativo.EducativoActivity@90786bd in: RESUMED
+11-12 23:46:36.956 26868 26868 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.pedro.gestaoresiduos/.ui.login.LoginActivity }, activity.getIntent()=Intent { cmp=com.pedro.gestaoresiduos/.ui.educativo.EducativoActivity }, activity=com.pedro.gestaoresiduos.ui.educativo.EducativoActivity@90786bd
+11-12 23:46:37.183 26868 26918 E OpenGLRenderer: Unable to match the desired swap behavior.
+11-12 23:46:37.391   594   631 I ActivityTaskManager: Displayed com.pedro.gestaoresiduos/.ui.educativo.EducativoActivity for user 0: +717ms
+11-12 23:46:37.533 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f in: STOPPED
+11-12 23:46:37.537 26868 26868 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f
+11-12 23:46:37.550 26868 26868 D AutofillManager: onActivityFinishing(): calling cancelLocked()
+11-12 23:46:37.554 26868 26868 D LifecycleMonitor: Lifecycle status change: com.pedro.gestaoresiduos.ui.login.LoginActivity@6e9729f in: DESTROYED
+11-12 23:46:37.556 26868 26868 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+11-12 23:46:37.558 26868 26868 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@f6a201a
+11-12 23:46:37.570   594  1699 W InputManager-JNI: Input channel object '23e75dd com.pedro.gestaoresiduos/com.pedro.gestaoresiduos.ui.login.LoginActivity (client)' was disposed without first being removed with the input manager!
+11-12 23:46:37.707   594   729 I ImeTracker: com.pedro.gestaoresiduos:82a45d08: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+11-12 23:46:37.708   594   729 I ImeTracker: com.pedro.gestaoresiduos:82a45d08: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-12 23:46:37.712  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+11-12 23:46:37.730  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+11-12 23:46:37.738  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.pedro.gestaoresiduos fieldId=0 fieldName=null extras=null}, false)
+11-12 23:46:37.740  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+11-12 23:46:37.744  1513  1513 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+11-12 23:46:37.870 26868 26868 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Tijucas"
+11-12 23:46:37.883 26868 26916 I TestRunner: finished: verificarFluxoAposMudancas(com.pedro.gestaoresiduos.RegressaoUiTest)

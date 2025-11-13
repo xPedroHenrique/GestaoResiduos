@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.pedro.gestaoresiduos.app-mergeDebugResources-37:/layout/activity_calendario.xml",
+        "source": "com.pedro.gestaoresiduos.app-main-40:/layout/activity_calendario.xml"
+    },
+    {
+        "merged": "com.pedro.gestaoresiduos.app-mergeDebugResources-37:/layout/activity_educativo.xml",
+        "source": "com.pedro.gestaoresiduos.app-main-40:/layout/activity_educativo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-mergeDebugResources-37:\\layout\\activity_mapa.xml",
+        "source": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-main-40:\\layout\\activity_mapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-mergeDebugResources-37:\\layout\\activity_educativo.xml",
+        "source": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-main-40:\\layout\\activity_educativo.xml"
+    },
+    {
+        "merged": "com.pedro.gestaoresiduos.app-mergeDebugResources-37:/layout/activity_home.xml",
+        "source": "com.pedro.gestaoresiduos.app-main-40:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-mergeDebugResources-37:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-main-40:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.pedro.gestaoresiduos.app-mergeDebugResources-37:/layout/activity_splash.xml",
+        "source": "com.pedro.gestaoresiduos.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-mergeDebugResources-37:\\layout\\item_coleta.xml",
+        "source": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-main-40:\\layout\\item_coleta.xml"
+    },
+    {
+        "merged": "com.pedro.gestaoresiduos.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "com.pedro.gestaoresiduos.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.pedro.gestaoresiduos.app-mergeDebugResources-37:/layout/item_coleta.xml",
+        "source": "com.pedro.gestaoresiduos.app-main-40:/layout/item_coleta.xml"
+    },
+    {
+        "merged": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-mergeDebugResources-37:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-main-40:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-mergeDebugResources-37:\\layout\\activity_calendario.xml",
+        "source": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-main-40:\\layout\\activity_calendario.xml"
+    },
+    {
+        "merged": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-mergeDebugResources-37:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ph291\\.gradle\\daemon\\9.0-milestone-1\\com.pedro.gestaoresiduos.app-main-40:\\layout\\activity_login.xml"
+    }
+]

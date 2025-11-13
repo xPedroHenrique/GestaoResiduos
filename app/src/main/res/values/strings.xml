@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gestão de Resíduos</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="register">Cadastrar</string>
+    <string name="calendar">Calendário</string>
+    <string name="map">Mapa</string>
+    <string name="education">Educação</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="titulo_mapa">Mapa - Tijucas</string>
+</resources>

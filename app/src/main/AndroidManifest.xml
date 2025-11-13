@@ -1,0 +1,32 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pedro.gestaoresiduos">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:label="Gestão de Resíduos"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:theme="@style/Theme.GRT">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCA1KLu-ui3pG3tbv56HYd-ICzoFzaCZ7A" />
+
+        <activity android:name=".ui.mapa.MapaActivity" />
+        <activity android:name=".ui.educativo.EducativoActivity" />
+        <activity android:name=".ui.calendario.CalendarioActivity" />
+        <activity android:name=".ui.home.HomeActivity" />
+        <activity android:name=".ui.login.LoginActivity" />
+        <activity
+            android:name=".ui.login.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+</manifest>

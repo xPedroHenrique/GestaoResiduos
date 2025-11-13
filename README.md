@@ -1,24 +1,44 @@
-# Gestão de Resíduos – Etapa 2 (Android, Kotlin)
+# Gestão de Resíduos – Etapa 2
+Aplicação Mobile (Android / Kotlin) com TDD + Testes UI (Espresso)
 
-MVP funcional com Login -> Home -> (Calendário, Mapa, Educação). Inclui TDD (unit test) e teste UI (Espresso).
+Este repositório contém o MVP desenvolvido para a Etapa 2 do projeto de Programação Mobile, seguindo boas práticas como arquitetura simples, ViewBinding, Google Maps, Test-Driven Development (TDD) e testes automatizados utilizando JUnit e Espresso.
 
-## Como abrir
-1. Android Studio > Open > selecione a pasta `GestaoResiduosEtapa2`.
-2. Sincronize o Gradle.
-3. Rode o app no emulador (API 26+).
+O objetivo do app é fornecer uma interface simples para a comunidade visualizar informações úteis sobre calendário de coleta, educação ambiental e mapa da cidade de Tijucas (SC) — tudo construído de forma orientada a testes.
 
-## Testes
-- Unitários: `ValidacaoTest` (JUnit) — `emailValido` e `emailInvalido`.
-- UI: `SmokeUiTest` (Espresso) — abre a tela de Login sem crash.
+## Tecnologias Utilizadas
+ -  Android SDK (API 26+)
+ -  Kotlin
+ -  ViewBinding
+ - Google Maps SDK
+ - JUnit (Testes Unitários)
+ - Espresso (Testes de UI)
+ - Gradle Kotlin DSL
 
-Execute: **Run > Run All Tests**.
+## Estrutura do Projeto
+app/
+└── src/
+    ├── main/
+    │   ├── java/com/pedro/gestaoresiduos
+    │   │   ├── ui/
+    │   │   │   ├── login/        → LoginActivity
+    │   │   │   ├── home/         → HomeActivity
+    │   │   │   ├── educativo/    → EducativoActivity
+    │   │   │   ├── calendario/   → CalendarioActivity
+    │   │   │   └── mapa/         → MapaActivity (Google Maps)
+    │   │   ├── util/             → Validacao.kt
+    │   │   └── model/            → Dados mockáveis
+    │   └── res/                  → Layouts, strings, cores, etc.
+    ├── test/                     → Testes unitários (JUnit)
+    └── androidTest/              → Testes de interface (Espresso)
 
-## Evidências para Relatório (Etapa 2)
-- Prints: telas Login, Home, Calendário, Mapa, Educação.
-- Print dos testes passando (JUnit + Espresso).
-- Link do repositório Git.
-- Dashboard do ClickUp com Sprint final concluída.
+## Funcionalidades Implementadas
+1 - Login
+  - Validação de e-mail (Validacao.validarEmail)
+  - Senha mínima com 4 caracteres
+  - Navegação para Home em caso de sucesso
+  - Toast para credenciais inválidas
 
-## Estrutura
-- `ui/` Activities com ViewBinding.
-- `data/` modelos e repositório de coletas (mock, facilmente trocável por API/DB).
+2 - Home
+  - Calendário
+  - Educação Ambiental
+  - Mapa (Google Maps)
